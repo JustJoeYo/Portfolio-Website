@@ -1,4 +1,5 @@
 import Navbar from "./navbar";
 import { FrontPageText } from "./frontpagetext";
+import Reveal from "./reveal";
 
-export { Navbar, FrontPageText };
+export { Navbar, FrontPageText, Reveal };

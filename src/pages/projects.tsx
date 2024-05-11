@@ -20,19 +20,19 @@ export function Projects() {
               <div className="md:flex">
                 <img
                   className="mx-auto md:mr-0 h-48 object-contain md:order-2 md:object-right"
-                  src="https://opengraph.githubassets.com/fd5748ea3ed96b336f923f4212fae8b99119c1f55eb6b8819d79b3d8af3f294a/JustJoeYo/catnip.solutions"
+                  src="https://opengraph.githubassets.com/e1a71eb46f70f95ebd68f856e04c011af69cffbf87b89d3b91705cf747d1f36c/JustJoeYo/StellarInsight"
                   alt=""
                 />
                 <div className="">
-                  <h3 className="text-4xl">Fullstack Valorant Tracker</h3>
+                  <h3 className="text-4xl">StellarInsight</h3>
                   <p className="mt-6 text-base text-white">
                     A project to showcase my skills and my fullstack
                     capabilities. This project uses AI to coach players, shows
-                    detailed stats, and more.
+                    detailed statistics, and more.
                   </p>
                   <button className="mt-4 rounded-lg bg-blue-700 px-6 py-2 text-white transition hover:translate-y-1">
                     <a
-                      href="https://github.com/JustJoeYo/"
+                      href="https://github.com/JustJoeYo/StellarInsight"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
